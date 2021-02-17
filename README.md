@@ -1,6 +1,6 @@
 # Bitcoin Ticker 🤑
 
-## Our Goal
+## Goal
 
 The objective of this tutorial was to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
